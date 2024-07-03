@@ -1,9 +1,10 @@
+import Navbar from "./components/Navbar/Navbar"
 
 function App() {
 
   return (
     <>
-      <h1 className='text-3xl'>Start Task</h1>
+      <Navbar/>
     </>
   )
 }
